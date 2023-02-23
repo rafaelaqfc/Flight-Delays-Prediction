@@ -33,7 +33,6 @@ Variables:
 - **cancellation_code**: Specifies The Reason For Cancellation
 - **diverted**: Diverted Flight Indicator (1=Yes)
 - **dup**: Duplicate flag marked Y if the flight is swapped based on Form-3A data
-- **crs_elapsed_time**: CRS Elapsed Time of Flight, in Minutes
 - **actual_elapsed_time**: Elapsed Time of Flight, in Minutes
 - **air_time**: Flight Time, in Minutes
 - **flights**: Number of Flights
